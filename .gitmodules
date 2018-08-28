@@ -1,0 +1,3 @@
+[submodule "PowerBurn-Board"]
+	path = PowerBurn-Board
+	url = git@github.com:M2I-CySat/PowerBurn-Board.git
