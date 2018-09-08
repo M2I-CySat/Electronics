@@ -1,3 +1,6 @@
 [submodule "PowerBurn-Board"]
 	path = PowerBurn-Board
 	url = git@github.com:M2I-CySat/PowerBurn-Board.git
+[submodule "Motherboard-Firmware"]
+	path = Motherboard-Firmware
+	url = git@github.com:M2I-CySat/CySat-1-CDH_FW.git
