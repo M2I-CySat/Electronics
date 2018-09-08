@@ -4,3 +4,9 @@
 [submodule "Motherboard-Firmware"]
 	path = Motherboard-Firmware
 	url = git@github.com:M2I-CySat/CySat-1-CDH_FW.git
+[submodule "BurnOut-Board"]
+	path = BurnOut-Board
+	url = git@github.com:M2I-CySat/BurnOut-Board.git
+[submodule "CySat-Motherboard"]
+	path = CySat-Motherboard
+	url = git@github.com:M2I-CySat/CySat-Motherboard.git
